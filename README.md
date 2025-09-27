@@ -1,8 +1,12 @@
 # 💥 Salut, moi c'est Sam
 
-Développeur passionné par les **technologies web et backend**, je travaille sur des projets variés allant du Java aux frameworks Python et aux bases de données. Toujours curieux et en apprentissage constant !
-
 ---
+
+## Développeur polyvalent
+
+**Java • Python • PHP • Web**
+
+Créatif et toujours prêt à relever de nouveaux défis, je transforme des idées en projets concrets, solides et élégants.
 
 
 ## 💻 Compétences
@@ -22,14 +26,11 @@ Développeur passionné par les **technologies web et backend**, je travaille su
 
 
 ---
----
 
 ## 🚀 Projets récents
 
 - [Monopoly](https://github.com/Samuel-BONNET/Monopoly) – Un projet de jeu de plateau en Java  
 - [Crypto Dashboard](https://github.com/Samuel-BONNET/Crypto-Dashboard) – Tableau de suivi crypto en Python et JS  
-
-Pour voir plus de projets : [Mon GitHub](https://github.com/Samuel-BONNET)
 
 ---
 
