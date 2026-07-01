@@ -1,44 +1,50 @@
-# 💥 Salut, moi c'est Sam
+#  Hi, I'm Sam ! 🇫🇷
 
 ---
 
-## Développeur polyvalent
+## Junior Full-Stack Developer
+<strong style="color:#CFABE0;">◣ Java ● Rust ● Python</strong>
+<strong> ─ </strong>
+<strong style="color:#F2ED79;">Typescript ● Vue.js ● Nuxt.js ◥</strong>
 
-**Java • Python • PHP • Web**
+I enjoy building side projects to explore new ideas and learn new technologies.
 
-Je code ce qui me passe par la tête pour tester de nouvelles idées et découvrir de nouveaux langages.
+## About Me:
 
-## 💻 Compétences
+I'm Samuel Bonnet, a French third-year Computer Science student at [IUT de Lens, France](https://www.iut-lens.univ-artois.fr/)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Stack :
+
+| Advanced                                                                                            | Familiar                                                                                         |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| [![My Skills](https://skillicons.dev/icons?i=java,python,vue,react)](https://skillicons.dev)        | [![My Skills](https://skillicons.dev/icons?i=rust,nuxt,spring,c)](https://skillicons.dev)        |
+| [![My Skills](https://skillicons.dev/icons?i=postgres,linux,gitlab,docker)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=angular,flask,php,laravel)](https://skillicons.dev) |
+
+
+#### [#Rustacean](https://rustacean.fr/) fan
+
+### System
+- Linux (Arch, Debian)
+
+### Hardware : 
+- PC Building • Hardware Upgrades • Server Optimization
+
+### Philosophy :
+- *"Why settle for ordinary when you can build something better?"*
+- *"There is always a solution, otherwise it's not a problem anymore"*
+
+<img src="assets/meme.jpg" alt="Meme" height="300" style="margin-left: 2vw; box-shadow: 1px 1px 10px #888888;">
 
 ---
 
-## 🚀 Projets récents
+## Projects
 
-- [Monopoly](https://github.com/Samuel-BONNET/Monopoly) – Un projet de jeu de plateau en Java
-- [Crypto Dashboard](https://github.com/Samuel-BONNET/Crypto-Dashboard) – Tableau de suivi crypto en Python et JS
+- ### [Poker Online Multiplayer (Rust)](https://github.com/Samuel-BONNET/poker) – Real-time game with WebSockets
+- ### [Pokémon Dashboard (Nuxt)](https://github.com/Samuel-BONNET/Crypto-Dashboard) – Management tool for collections & more !
 
 ---
 
-## 📫 Contact
+## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/samuel-bonnet1)
-- 📧 s.bonnet230906@gmail.com  
+- 🟦 [LinkedIn](https://www.linkedin.com/in/samuel-bonnet1)
+- 📧 [Email](s.bonnet230906@gmail.com)  
