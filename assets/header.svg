@@ -1,0 +1,59 @@
+<svg width="900" height="300" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- BACKGROUND (transparent by default) -->
+
+    <!-- MAIN FRAME -->
+    <rect x="40" y="30" width="820" height="240"
+          fill="none"
+          stroke="#4DA3FF"
+          stroke-width="2"
+          rx="12"/>
+
+    <!-- subtle inner frame -->
+    <rect x="55" y="45" width="790" height="210"
+          fill="none"
+          stroke="#1E3A8A"
+          stroke-width="1"
+          rx="10"
+          opacity="0.6"/>
+
+    <!-- TITLE -->
+    <text x="450" y="110"
+          font-size="36"
+          fill="#E5E7EB"
+          text-anchor="middle"
+          font-family="Arial"
+          font-weight="bold">
+        Hi, I'm Sam ! 🇫🇷
+    </text>
+
+    <!-- SUBTITLE -->
+    <text x="450" y="150"
+          font-size="18"
+          fill="#4DA3FF"
+          text-anchor="middle"
+          font-family="Arial">
+        Full Stack Developer
+    </text>
+
+    <!-- SUBTITLE -->
+    <text x="450" y="150"
+          font-size="18"
+          fill="#3774D4"
+          text-anchor="middle"
+          font-family="Arial">
+        Full Stack Developer
+    </text>
+
+    <!-- STACK -->
+    <text x="450" y="200" text-anchor="middle" font-size="14" font-family="Arial">
+
+        <tspan fill="#CFABE0">◣ Java ● Rust ● Python </tspan>
+
+        <tspan fill="white"> ─ </tspan>
+
+        <tspan fill="#F2ED79"> TypeScript ● Vue.js ● Nuxt.js ◥</tspan>
+
+    </text>
+
+</svg>

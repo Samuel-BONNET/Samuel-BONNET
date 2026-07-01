@@ -1,50 +1,66 @@
-#  Hi, I'm Sam ! 🇫🇷
+![header](assets/header.svg)
 
----
+<h2 align="center">About Me</h2>
 
-## Junior Full-Stack Developer
-<strong style="color:#CFABE0;">◣ Java ● Rust ● Python</strong>
-<strong> ─ </strong>
-<strong style="color:#F2ED79;">Typescript ● Vue.js ● Nuxt.js ◥</strong>
+<h4 align="center">I'm Samuel Bonnet, a French third-year Computer Science student at <a href="https://www.iut-lens.univ-artois.fr/">IUT de Lens, France</a>
 
-I enjoy building side projects to explore new ideas and learn new technologies.
+I enjoy building side projects to explore new ideas and learn new technologies.</h4>
 
-## About Me:
+<h2 align="center">Stack</h2>
 
-I'm Samuel Bonnet, a French third-year Computer Science student at [IUT de Lens, France](https://www.iut-lens.univ-artois.fr/)
+<h3 align="center">Advanced</h3>
 
-### Stack :
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,vue,react,postgres,linux,gitlab,docker">
+</p>
 
-| Advanced                                                                                            | Familiar                                                                                         |
-|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [![My Skills](https://skillicons.dev/icons?i=java,python,vue,react)](https://skillicons.dev)        | [![My Skills](https://skillicons.dev/icons?i=rust,nuxt,spring,c)](https://skillicons.dev)        |
-| [![My Skills](https://skillicons.dev/icons?i=postgres,linux,gitlab,docker)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=angular,flask,php,laravel)](https://skillicons.dev) |
+<h3 align="center">Familiar</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,nuxt,spring,c,angular,flask,php,laravel">
+</p>
+<h4 align="center">
+    <a href="https://rustacean.fr/">
+    #Rustacean
+    </a> fan
+</h4>
+
+<h2 align="center">System</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu">
+</p>
+
+<h2 align="center">Hardware</h2> 
+<h4 align="center">
+PC Building • Hardware Upgrades • Server Optimization
+</h4>
+
+<h2 align="center">Projects</h2>
+<h4 align="center">
+<a href="https://github.com/Samuel-BONNET/poker">Poker Online Multiplayer (Rust)</a> – Real-time WebSockets Poker Online
+
+<a href="https://github.com/Samuel-BONNET/Crypto-Dashboard">Pokémon Dashboard (Nuxt)</a> – Management tool for collections & more !
+</h4>
+
+<h2 align="center">Philosophy</h2>
+<h4 align="center">
+"Why settle for ordinary when you can build something better?"*
+
+"There is always a solution, otherwise it's not a problem anymore"*
+
+<img  src="assets/meme.jpg" alt="Meme">
+</h4>
+
+<h2 align="center">Contact</h2>
 
 
-#### [#Rustacean](https://rustacean.fr/) fan
+<p align="center">
+    <a href="https://www.linkedin.com/in/samuel-bonnet1">
+        <img src="https://skillicons.dev/icons?i=linkedin">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=s.bonnet230906@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="gmail">
+    </a>
+</p>
 
-### System
-- Linux (Arch, Debian)
-
-### Hardware : 
-- PC Building • Hardware Upgrades • Server Optimization
-
-### Philosophy :
-- *"Why settle for ordinary when you can build something better?"*
-- *"There is always a solution, otherwise it's not a problem anymore"*
-
-<img src="assets/meme.jpg" alt="Meme" height="300" style="margin-left: 2vw; box-shadow: 1px 1px 10px #888888;">
-
----
-
-## Projects
-
-- ### [Poker Online Multiplayer (Rust)](https://github.com/Samuel-BONNET/poker) – Real-time game with WebSockets
-- ### [Pokémon Dashboard (Nuxt)](https://github.com/Samuel-BONNET/Crypto-Dashboard) – Management tool for collections & more !
-
----
-
-## Contact
-
-- 🟦 [LinkedIn](https://www.linkedin.com/in/samuel-bonnet1)
-- 📧 [Email](s.bonnet230906@gmail.com)  
