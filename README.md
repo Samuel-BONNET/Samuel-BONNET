@@ -48,7 +48,7 @@ PC Building • Hardware Upgrades • Server Optimization
 
 "There is always a solution, otherwise it's not a problem anymore"*
 
-<img  src="assets/meme.jpg" alt="Meme">
+<img  src="assets/memelow.png" alt="Meme">
 </h4>
 
 <h2 align="center">Contact</h2>
